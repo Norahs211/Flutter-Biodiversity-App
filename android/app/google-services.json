@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460775818984",
+    "project_id": "especies-gto",
+    "storage_bucket": "especies-gto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460775818984:android:41fe782dd6f1cdf2c06b5d",
+        "android_client_info": {
+          "package_name": "com.example.especies_guanajuato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-v2TyoqKavdh8FfuWotyyG76bCb-awAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

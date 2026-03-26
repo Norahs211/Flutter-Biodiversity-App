@@ -171,4 +171,4 @@ Proyecto desarrollado como práctica y reconstrucción de una idea original enfo
 Este proyecto forma parte de un proceso de evolución hacia aplicaciones más completas, centradas en experiencia de usuario, arquitectura y escalabilidad.
 
 
-````
+

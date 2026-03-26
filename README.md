@@ -8,13 +8,15 @@ Aplicación móvil multiplataforma diseñada para la exploración de especies y 
 
 ![App Preview](docs/images/app_preview.png)
 
+
 ---
 
 ## 🎬 Demo
 
-![Demo](docs/images/demo.gif)
+<p align="center">
+  <img src="docs/images/demo.gif" width="350"/>
+</p>
 
----
 
 ## 🧭 Contexto del proyecto
 
